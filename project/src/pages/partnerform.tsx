@@ -176,7 +176,7 @@ const PartnerFormPage = () => {
               pattern="^\+?[1-9]\d{7,14}$"
               title="Use international format, e.g., +919876543210"
               className="p-3 border rounded-lg focus:ring-2 focus:ring-cyan focus:outline-none"
-              placeholder="+91 9876543210"
+              placeholder="+919876543210"
             />
           </div>
 
